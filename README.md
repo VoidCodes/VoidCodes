@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voidcodes" alt="voidcodes" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [github.com/VoidCodes](github.com/VoidCodes)
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **AWS Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
